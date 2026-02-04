@@ -1,5 +1,12 @@
 # 💫 About Me:
-Conducted undergraduate research on neural network security with a focus on backdoor attacks against Kolmogorov–Arnold Networks (KANs). My work involved integrating KAN models from the GitHub repository IvanDrokin/torch-conv-kan with backdoor attack pipelines from SCLBD/BackdoorBench, adapting training and evaluation workflows to support KAN architectures. I trained models across multiple epochs, embedded and evaluated backdoor triggers, applied defense techniques, and analyzed attack success rates and model misclassification behavior, presenting my findings as part of the SURE undergraduate research program.
+This GitHub reflects my current learning and personal project work.
+
+![GPA](https://img.shields.io/badge/Academic%20Level-3.7%20GPA%20Wizard-gold?style=for-the-badge&logo=googlescholar)
+![IT Support](https://img.shields.io/badge/IT%20War%20Stories-500%2B%20Tickets%20Survived-success?style=for-the-badge&logo=opsgenie)
+![Research](https://img.shields.io/badge/Research-Neural%20Networks%20-blueviolet?style=for-the-badge&logo=pytorch)
+![Rocketry](https://img.shields.io/badge/Rocketry-Airbrake%20Logic%20Expert-red?style=for-the-badge&logo=spacex)
+![Languages](https://img.shields.io/badge/Polyglot-Arabic%20%7C%20French%20%7C%20English-orange?style=for-the-badge)
+![IT Superpower](https://img.shields.io/badge/IT%20Superpower-The%20Reboot-0078d4?style=for-the-badge&logo=windows)
 
 
 ## 🌐 Socials:
@@ -7,9 +14,9 @@ Conducted undergraduate research on neural network security with a focus on back
 
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
