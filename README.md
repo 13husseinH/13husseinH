@@ -1,13 +1,12 @@
 # 💫 About Me:
 This GitHub reflects my current learning and personal project work.
 
-![GPA](https://img.shields.io/badge/Academic%20Level-3.7%20GPA%20Wizard-gold?style=for-the-badge&logo=googlescholar)
-![IT Support](https://img.shields.io/badge/IT%20War%20Stories-500%2B%20Tickets%20Survived-success?style=for-the-badge&logo=opsgenie)
-![Research](https://img.shields.io/badge/Research-Neural%20Networks%20-blueviolet?style=for-the-badge&logo=pytorch)
-![Rocketry](https://img.shields.io/badge/Rocketry-Airbrake%20Logic%20Expert-red?style=for-the-badge&logo=spacex)
-![Languages](https://img.shields.io/badge/Polyglot-Arabic%20%7C%20French%20%7C%20English-orange?style=for-the-badge)
+![GPA](https://img.shields.io/badge/Academic-3.7%20GPA%20%7C%20UofM%20Dearborn-gold?style=for-the-badge&logo=googlescholar)
+![Research](https://img.shields.io/badge/Research-Neural%20Network%20Security-blueviolet?style=for-the-badge&logo=pytorch)
+![IT Support](https://img.shields.io/badge/IT%20Operations-500%2B%20Tickets%20Resolved-success?style=for-the-badge&logo=microsoft)
+![Rocketry](https://img.shields.io/badge/Engineering-Rocket%20Control%20Systems-red?style=for-the-badge&logo=spacex)
+![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Arabic%20%7C%20French-orange?style=for-the-badge)
 ![IT Superpower](https://img.shields.io/badge/IT%20Superpower-The%20Reboot-0078d4?style=for-the-badge&logo=windows)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-haidar-ahmad)
