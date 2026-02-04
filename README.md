@@ -1,7 +1,7 @@
 # 💫 About Me:
-This GitHub reflects my current learning and personal project work.
+## This GitHub reflects my current learning and personal project work.
 
-![GPA](https://img.shields.io/badge/Academic-3.7%20GPA%20%7C%20UofM%20Dearborn-gold?style=for-the-badge&logo=googlescholar)
+![GPA](https://img.shields.io/badge/Academic-3.7%20GPA%20%7C%20UfM%20-gold?style=for-the-badge&logo=googlescholar)
 ![Research](https://img.shields.io/badge/Research-Neural%20Network%20Security-blueviolet?style=for-the-badge&logo=pytorch)
 ![IT Support](https://img.shields.io/badge/IT%20Operations-500%2B%20Tickets%20Resolved-success?style=for-the-badge&logo=microsoft)
 ![Rocketry](https://img.shields.io/badge/Engineering-Rocket%20Control%20Systems-red?style=for-the-badge&logo=spacex)
