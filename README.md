@@ -4,9 +4,7 @@
 ![GPA](https://img.shields.io/badge/Academic-3.7%20GPA%20%7C%20UfM%20-gold?style=for-the-badge&logo=googlescholar)
 ![Research](https://img.shields.io/badge/Research-Neural%20Network%20Security-blueviolet?style=for-the-badge&logo=pytorch)
 ![IT Support](https://img.shields.io/badge/IT%20Operations-500%2B%20Tickets%20Resolved-success?style=for-the-badge&logo=microsoft)
-![Rocketry](https://img.shields.io/badge/Engineering-Rocket%20Control%20Systems-red?style=for-the-badge&logo=spacex)
-![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Arabic%20%7C%20French-orange?style=for-the-badge)
-![IT Superpower](https://img.shields.io/badge/IT%20Superpower-The%20Reboot-0078d4?style=for-the-badge&logo=windows)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-haidar-ahmad)
