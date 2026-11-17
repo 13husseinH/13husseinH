@@ -1,6 +1,6 @@
 <img src="assets/hero.svg" width="100%" alt="The letters HUSSEIN are traced onto a grid while an OBD-II scanner session runs beside them.">
 
-## Shipped
+## Deployed
 
 <a href="https://seniordesign.engin.umd.umich.edu"><img src="assets/card-portal.svg" width="100%" alt="Senior Design Management System: developer on the deployed University of Michigan-Dearborn Senior Design portal at seniordesign.engin.umd.umich.edu."></a>
 
