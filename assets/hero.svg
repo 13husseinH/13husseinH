@@ -69,9 +69,9 @@
       <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.15s" fill="freeze"/></text>
     <text class="ln" x="582" y="234"><tspan class="cmd">ATI</tspan><tspan class="ok"> Python · ML · computer vision</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.15s" fill="freeze"/></text>
-    <text class="ln" x="582" y="260"><tspan class="cmd">ATMA</tspan><tspan class="cmt" x="722">; monitor all (always)</tspan>
+    <text class="ln" x="582" y="260"><tspan class="cmd">ATMA</tspan><tspan class="cmt" x="722">; now: Senior Design portal</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.15s" fill="freeze"/></text>
-    <rect x="912" y="247" width="8" height="17" fill="#e6edf3" opacity="0">
+    <rect x="951" y="247" width="8" height="17" fill="#e6edf3" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" dur="1s" begin="3.4s" repeatCount="indefinite"/>
     </rect>
   </g>
