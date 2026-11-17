@@ -1,22 +1,18 @@
-## Hi, I'm Hussein
+<img src="assets/hero.svg" width="100%" alt="The letters HUSSEIN are traced onto a grid while an OBD-II scanner session runs beside them.">
 
-I build software that digs into data and explains what it finds: car diagnostics, computer vision, and tools that make black-box systems easier to trust.
+I'm Hussein. I build software that reads raw data and explains what it finds, from the fault codes in a car's computer to the pixels a vision model is actually paying attention to.
 
-## Working on
+I like problems where the answer has to be trusted, so my tools show their work.
 
-| | |
-|---|---|
-| **[OBD-AutoInsight](https://github.com/13husseinH/OBD-AutoInsight)** | Reads FORScan vehicle logs, ranks fault codes by priority, and keeps your scan history organized automatically. |
-| **[XAI-Vision](https://github.com/13husseinH/XAI-Vision)** | Audits computer vision models for dataset bias, shortcut learning, and spurious correlations, so you can see *why* a model predicts what it does. |
+## Live data
 
-## Toolchain
+<p align="center">
+  <a href="https://github.com/13husseinH/OBD-AutoInsight"><img src="assets/card-obd.svg" width="49%" alt="OBD-AutoInsight: reads FORScan logs, ranks fault codes by priority, and keeps scan history organized."></a>
+  <a href="https://github.com/13husseinH/XAI-Vision"><img src="assets/card-xai.svg" width="49%" alt="XAI-Vision: audits computer vision models for dataset bias and shortcut learning."></a>
+</p>
 
-```
-languages   Python
-ml          computer vision · explainable AI
-tools       Git · GitHub
-```
+## Clear codes
 
-## Contact
+Always up for talking cars, computer vision, or anything that needs debugging.
 
 [LinkedIn](https://www.linkedin.com/in/hussein-haidar-ahmad)
