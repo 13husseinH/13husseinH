@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 380" role="img" aria-label="OBD-AutoInsight: reads FORScan logs and ranks fault codes by priority.">
+  <style>
+    .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+  </style>
+  <rect x="1" y="1" width="1038" height="378" rx="22" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <text class="sans" x="48" y="94" font-size="42" font-weight="700" fill="#e6edf3">OBD-AutoInsight</text>
+  <g class="sans" font-size="23" fill="#8b949e">
+    <text x="48" y="150">Reads FORScan logs, ranks every</text>
+    <text x="48" y="188">fault code by priority, and keeps</text>
+    <text x="48" y="226">your scan history organized.</text>
+  </g>
+  <text class="mono" x="48" y="330" font-size="19" letter-spacing="2" fill="#6e7681">PYTHON · FORSCAN · OBD-II</text>
+
+  <!-- panel -->
+  <rect x="638" y="62" width="354" height="226" rx="12" fill="#05070a" stroke="#30363d"/>
+  <text class="mono" x="656" y="92" font-size="13" letter-spacing="1" fill="#d29922">FAULT CODES · RANKED</text>
+  <line x1="656" y1="104" x2="974" y2="104" stroke="#21262d"/>
+
+  <g class="mono" font-size="14">
+    <text x="656" y="136" fill="#e6edf3">P0301</text>
+    <rect x="720" y="125" width="0" height="12" rx="3" fill="#da3633"><animate attributeName="width" from="0" to="190" dur="0.6s" begin="0.2s" fill="freeze"/></rect>
+    <text x="974" y="136" fill="#f85149" text-anchor="end">HIGH</text>
+
+    <text x="656" y="174" fill="#e6edf3">P0420</text>
+    <rect x="720" y="163" width="0" height="12" rx="3" fill="#d29922"><animate attributeName="width" from="0" to="140" dur="0.6s" begin="0.4s" fill="freeze"/></rect>
+    <text x="974" y="174" fill="#d29922" text-anchor="end">MED</text>
+
+    <text x="656" y="212" fill="#e6edf3">P0171</text>
+    <rect x="720" y="201" width="0" height="12" rx="3" fill="#d29922"><animate attributeName="width" from="0" to="100" dur="0.6s" begin="0.6s" fill="freeze"/></rect>
+    <text x="974" y="212" fill="#d29922" text-anchor="end">MED</text>
+
+    <text x="656" y="250" fill="#e6edf3">P0456</text>
+    <rect x="720" y="239" width="0" height="12" rx="3" fill="#3fb950"><animate attributeName="width" from="0" to="50" dur="0.6s" begin="0.8s" fill="freeze"/></rect>
+    <text x="974" y="250" fill="#3fb950" text-anchor="end">LOW</text>
+  </g>
+
+  <text class="mono" x="638" y="330" font-size="20" fill="#e6edf3">4 codes · scan saved <tspan fill="#3fb950" font-weight="700">✓</tspan></text>
+</svg>
