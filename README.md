@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="The letters HUSSEIN are traced onto a grid while an OBD-II scanner session runs beside them.">
+<img src="assets/hero.svg?v=2" width="100%" alt="The letters HUSSEIN are traced onto a grid while an OBD-II scanner session runs beside them.">
 
 ## Deployed
 
