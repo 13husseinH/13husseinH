@@ -67,7 +67,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.15s" fill="freeze"/></text>
     <text class="ln" x="582" y="208"><tspan class="cmd">01</tspan><tspan class="arg"> 0C</tspan><tspan class="cmt" x="722">; build: raw data → answers</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.15s" fill="freeze"/></text>
-    <text class="ln" x="582" y="234"><tspan class="cmd">ATI</tspan><tspan class="ok"> Python · ML · computer vision</tspan>
+    <text class="ln" x="582" y="234"><tspan class="cmd">ATI</tspan><tspan class="ok"> SWE @ UM-Dearborn</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.15s" fill="freeze"/></text>
     <text class="ln" x="582" y="260"><tspan class="cmd">ATMA</tspan><tspan class="cmt" x="722">; now: Senior Design portal</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.15s" fill="freeze"/></text>
